@@ -1,6 +1,6 @@
 Network Design Using Cisco Packet Tracer.
 
-Overview
+
 This project is an enterprise network simulation developed using Cisco Packet Tracer. It demonstrates the design and implementation of a scalable network consisting of multiple Local Area Networks (LANs) connected through a routed backbone. Each LAN contains client devices and a dedicated server connected through a switch, while routers provide communication between all remote networks and an ISP connection.
 
 The project focuses on practical networking concepts including IP subnetting, router interconnection, LAN design, WAN links, and hierarchical network architecture.
